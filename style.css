@@ -1,0 +1,25 @@
+body {
+  background: rgb(0, 154, 154);
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+textarea {
+  border: 1px teal solid;
+  border-radius: 5px;
+  outline: none;
+  background: whitesmoke;
+  font-size: 30px;
+  box-shadow: 10px 10px 10px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 3rem;
+  color: whitesmoke;
+}
